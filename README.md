@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <!--
 **gprem09/gprem09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
