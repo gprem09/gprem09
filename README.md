@@ -11,6 +11,8 @@ Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to m
 - 💻 member of competitive programming club where i engage in collaborative problem-solving and algorithmic challenges to improve coding skills.
 - 💫 fun-fact: i used to have an editing account on instagram with 15k+ followers back in 2020. 
 - 🛸 reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
-- 🌐 check out my <a href="https://gnanavelpremnath.com/">portfolio</a> 
+- 🌐 check out my <a href="https://gnanavelpremnath.com/">portfolio</a>
+
+<br />
 
 <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazloeWcwbWN2bTgzd281dTYzamFrbnVhMWFtaHV6YjBwZzkwcjU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" />
