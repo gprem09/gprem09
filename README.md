@@ -1,5 +1,4 @@
 <h3>welcome ...</h3> 
-<br />
 
 Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to master the art of AI and apply the latest in tech! Besides coding, I do VFX and 3D animations!
 
