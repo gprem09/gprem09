@@ -15,4 +15,4 @@ Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to m
 
 <br />
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU5YmkzYnNycDcxOTduMWM1Mjc3dTBkZzBxdWVhMnptMDNwdmlsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0BaErqmljUd2/giphy.gif" /> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5kb29obTJjbWgxN3drbjVkMXFtNXJlZm8zdnNvOWQzMWxpNmExbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IBawXRqkcH4ALM4ets/giphy.gif" /> 
