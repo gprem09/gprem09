@@ -5,7 +5,7 @@ Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to m
 
 If you are looking for someone who is not only passionate about coding but also capable of critical thinking, problem-solving, and communicating in a tech community, then you have found the right person!
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aDJod3U1eWJyaG54OXFsZXNlcXd0b3hzbTZvOW9vamZ5cjd3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh4b2E1YzU4ZWp2Njg4eG8yMm5sbjB1cjdzczN3d29hMDdxcmJ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/esEL9gCyFWlUs/giphy.gif" />
 
 <h3>personal info</h3>
 
@@ -17,4 +17,4 @@ If you are looking for someone who is not only passionate about coding but also 
 
 <br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gprem09&theme=radical&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=gprem09&theme=radical&hide_border=false)<br/> >
