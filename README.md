@@ -16,3 +16,5 @@ If you are looking for someone who is not only passionate about coding but also 
 - 🌐 check out my <a href="https://gnanavelpremnath.com/">portfolio</a>  ⋆｡ ✩ ⋆₊ °✦ ‧₊ ˚✧
 
 <br />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=gprem09&theme=radical&hide_border=false)<br/>
