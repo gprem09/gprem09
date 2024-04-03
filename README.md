@@ -3,8 +3,6 @@
 
 Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to master the art of AI and apply the latest in tech! Besides coding, I do VFX and 3D animations!
 
-If you are looking for someone who is not only passionate about coding but also capable of critical thinking, problem-solving, and communicating in a tech community, then you have found the right person!
-
  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZoNzBpbHRxcmczcm44N2VwdHhwbms5MjBhaTYzMHlpeGRlNXVhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" />
 
 <h3>personal info</h3>
