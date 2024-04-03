@@ -1,4 +1,4 @@
-<h3><a href="https://emoji.gg/emoji/4014-typingpeped"><img src="https://cdn3.emoji.gg/emojis/4014-typingpeped.gif" width="64px" height="64px" alt="TypingPepeD"></a> welcome ...</h3> 
+<h3>welcome ...</h3> 
 <br />
 
 Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to master the art of AI and apply the latest in tech! Besides coding, I do VFX and 3D animations!
