@@ -13,6 +13,4 @@ Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to m
 - 🛸 reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
 - 🌐 check out my <a href="https://gnanavelpremnath.com/">portfolio</a>
 
-<br />
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVxMXN2MTNuZmYxczMzdDZ0b25mcXQ5Mjd5YWVzMjFlcWtzMWlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
