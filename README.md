@@ -9,7 +9,7 @@ If you are looking for someone who is not only passionate about coding but also 
 
 <h3>personal info</h3>
 
-- 👾 i’m currently learning NLP (python), ML Algorithms (C++), Pixel game (C++)
+- 👾 i’m currently learning nlp(python) and ml algorithms using c++
 - 💻 member of Competitive Programming club where i engage in collaborative problem-solving and algorithmic challenges to improve coding skills.
 - 💫 fun-fact: i used to have an editing account on instagram with 15k+ followers back in 2020. 
 - 🛸 reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
