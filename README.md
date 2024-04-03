@@ -3,7 +3,7 @@
 
 Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to master the art of AI and apply the latest in tech! Besides coding, I do VFX and 3D animations!
 
- <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZoNzBpbHRxcmczcm44N2VwdHhwbms5MjBhaTYzMHlpeGRlNXVhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZoNzBpbHRxcmczcm44N2VwdHhwbms5MjBhaTYzMHlpeGRlNXVhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif" />
 
 <h3>personal info</h3>
 
@@ -15,4 +15,3 @@ Hey there! My name is Gnanavel Premnath, a comp sci at SFU, I'm on the path to m
 
 <br />
 
-<img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazloeWcwbWN2bTgzd281dTYzamFrbnVhMWFtaHV6YjBwZzkwcjU0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" />
