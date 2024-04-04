@@ -1,4 +1,4 @@
-<h3>welcome ...</h3> 
+<h3>welcome!</h3> 
 
 Hey there! My name is Gnanavel Premnath, studying computer science. I'm on the path to master the art of AI and apply the latest in tech! Besides coding, I do VFX and 3D animations!
 
