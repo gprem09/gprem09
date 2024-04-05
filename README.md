@@ -11,4 +11,6 @@ Hey there! My name is Gnanavel Premnath, studying computer science. I'm on the p
 - fun-fact: i used to have an editing account on instagram with 15k+ followers back in 2020.
 - reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
 - check out my <a href="https://gnanavelpremnath.com/">portfolio</a> 🌐
+
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnl0Z2ZwY2ZsZDUzbzF6azN1OHZweHg4azYxZ20yYmQ2bDg4ajA3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Be0YVQAdVdm4E/giphy.gif" />
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
