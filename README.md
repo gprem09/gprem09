@@ -2,7 +2,7 @@
 
 Hey there! My name is Gnanavel Premnath, studying computer science. I'm on the path to master the art of AI and apply the latest in tech! Besides coding, I do VFX and 3D animations!
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdpamdzeXBubmd6a254M3Frbmt4c3FjcGIwZXN5dWcyMDE2eHJvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ge8V1m6LFNyBg9sIHV/giphy.gif" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" />
 
 <h3>personal info</h3>
 
