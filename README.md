@@ -12,4 +12,5 @@ Hey there! My name is Gnanavel Premnath, studying computer science. I'm on the p
 - reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
 - check out my <a href="https://gnanavelpremnath.com/">portfolio</a> 🌐
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZwcG8wYm1mMTVvejN4eDllbzA3dmUxOGM2bzlpdzNvcXhpcjQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aGJw0QaCx04Wk/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZwcG8wYm1mMTVvejN4eDllbzA3dmUxOGM2bzlpdzNvcXhpcjQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aGJw0QaCx04Wk/giphy.gif" />
+<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlenN5ZDU4cWk0azlxNTVtMWJzaTZ0ZXBhYWZueDFsanFicW1rNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" />
