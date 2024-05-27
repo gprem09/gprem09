@@ -8,7 +8,7 @@ Hey there! My name is Gnanavel Premnath, studying computer science. I'm on the p
 
 - i’m currently learning 3d graphics and ml algorithms using c++
 - member of competitive programming club where i engage in collaborative problem-solving and algorithmic challenges to improve coding skills.
-- fun-fact: i used to have an editing account on instagram with 15k+ followers back in 2020.
+- fun-fact: i used to have an editing account on instagram with 20k+ followers back in 2020.
 - reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
 - check out my <a href="https://gnanavelpremnath.com/">portfolio</a> 🌐
 
