@@ -1,6 +1,6 @@
 <h3>welcome!</h3> 
 
-Hey there! My name is Gnanavel Premnath, studying computer science. I'm on the path to learn the chi of programming! Besides coding, I do VFX and 3D animations!
+Hey there! My name is Gnanavel Premnath, studying computer science. Besides coding, I do VFX and 3D animations!
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" />
 
