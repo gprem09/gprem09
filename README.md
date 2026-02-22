@@ -6,10 +6,11 @@ Hey there! My name is Gnanavel Premnath, studying computer science. Besides codi
 
 <h3>about me</h3>
 
-- i love to cook, but i am not a chef
-- i’m currently learning 3d graphics and ml algorithms using c++
-- fun-fact: i used to have an editing account on instagram with 20k+ followers back in 2020
-- reach out to me: gpa21@sfu.ca | premnathgnanavel150@gmail.com
-- check out my <a href="https://gnanavelpremnath.com/">portfolio</a> 🌐
+- i love food
+- always down to talk about horror movies
+- fun-fact: i am def easily distracted by pixel arts
+- i am currently learning visual computing and image manipulation
+- reach out to me: premnathgnanavel150@gmail.com
+- check out my <a href="https://www.instagram.com/gnani.dev">instagram</a> <sub><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="16" height="16" alt="Instagram logo" /></sub>
 
 <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
